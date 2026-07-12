@@ -110,15 +110,15 @@
     "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/Jazz_FM_2018_logo.png/240px-Jazz_FM_2018_logo.png"
   },
   {
-    "id": "classicfm",
-    "name": "Classic FM (UK)",
-    "streamUrl": "https://stream.classicfm.com/classicfm",
-    "category": "world",
-    "genre": "קלאסי",
-    "description": "The world's most beautiful and relaxing classical music masterpieces",
-    "logoColor": 4282323381,
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Classic_FM_logo.svg/240px-Classic_FM_logo.svg.png"
-  },
+  "id": "classicfmuk",
+  "name": "Classic FM UK",
+  "streamUrl": "https://media-ssl.musicradio.com/ClassicFM",
+  "category": "classical",
+  "genre": "קלאסי קל",
+  "description": "תחנת הקלאסיקה המסחרית המובילה בבריטניה - יצירות מוכרות, פסנתר, תזמורת ומוזיקה קלאסית נעימה.",
+  "logoColor": 4283191120,
+  "logoUrl": "https://www.classicfm.com/favicon.ico"
+},
   {
     "id": "kexp",
     "name": "KEXP Seattle",
