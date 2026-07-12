@@ -20,6 +20,16 @@
     "logoUrl": "https://laut.fm/assets/icon-192x192.png"
   },
   {
+    "id": "radiolauth",
+    "name": "rlive",
+    "streamUrl": "https://live.ecast.co.il/stream/69fm/lolfm?t=1783878109164",
+    "category": "israeli",
+    "genre": "מערכונים",
+    "description": "כל המערכונים",
+    "logoColor": 4283191120,
+    "logoUrl": "https://cdn.rlive.co.il/1RY8N1SWUKWM3HV3ZP7FLYEO2@tb.png"
+  },
+  {
     "id": "eco99",
     "name": "Eco 99 FM",
     "streamUrl": "https://eco01.livecdn.biz/ecolive/99fm/icecast.audio",
