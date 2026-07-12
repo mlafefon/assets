@@ -254,7 +254,7 @@
     "name": "Classic FM Calm",
     "streamUrl": "https://media-ssl.musicradio.com/ClassicFMCalm",
     "category": "classical",
-    "genre": "קלאסי רגוע",
+    "genre": "קלאסי",
     "description": "מוזיקה קלאסית רגועה ונעימה - פסנתר, תזמורת וקטעים מרגיעים.",
     "logoColor": 4283191120,
     "logoUrl": "https://www.classicfm.com/favicon.ico"
@@ -274,7 +274,7 @@
     "name": "Radio Classique",
     "streamUrl": "https://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3",
     "category": "classical",
-    "genre": "קלאסי קל וצרפתי",
+    "genre": "קלאסיי",
     "description": "קלאסיקה אירופאית, פסנתר, יצירות מוכרות ומוזיקה נעימה.",
     "logoColor": 4283191120,
     "logoUrl": "https://www.radioclassique.fr/favicon.ico"
