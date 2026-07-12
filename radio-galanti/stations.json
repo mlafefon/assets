@@ -248,5 +248,36 @@
     "description": "תחנת הרדיו המובילה מגרמניה המוקדשת כולה ללהיטי שנות ה-90.",
     "logoColor": 4294924066,
     "logoUrl": "https://www.90s90s.de/sites/default/files/styles/logo/public/90s90s_logo_0.png"
+  },
+  {
+    "id": "classicfmcalm",
+    "name": "Classic FM Calm",
+    "streamUrl": "https://media-ssl.musicradio.com/ClassicFMCalm",
+    "category": "classical",
+    "genre": "קלאסי רגוע",
+    "description": "מוזיקה קלאסית רגועה ונעימה - פסנתר, תזמורת וקטעים מרגיעים.",
+    "logoColor": 4283191120,
+    "logoUrl": "https://www.classicfm.com/favicon.ico"
+  }, 
+  {
+    "id": "laut-fm-classic",
+    "name": "Laut.FM Klassik",
+    "streamUrl": "https://klassik.stream.laut.fm/klassik",
+    "category": "classical",
+    "genre": "קלאסי",
+    "description": "תחנת קלאסיקה גרמנית עם מבחר יצירות קלאסיות.",
+    "logoColor": 4283191120,
+    "logoUrl": "https://laut.fm/assets/icon-192x192.png"
+  },
+  {
+    "id": "radio-classique",
+    "name": "Radio Classique",
+    "streamUrl": "https://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3",
+    "category": "classical",
+    "genre": "קלאסי קל וצרפתי",
+    "description": "קלאסיקה אירופאית, פסנתר, יצירות מוכרות ומוזיקה נעימה.",
+    "logoColor": 4283191120,
+    "logoUrl": "https://www.radioclassique.fr/favicon.ico"
   }
+]
 ]
