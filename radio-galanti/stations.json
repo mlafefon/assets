@@ -100,16 +100,6 @@
     "logoUrl": "https://upload.wikimedia.org/wikipedia/he/thumb/4/4b/Radio_Darom_logo.png/240px-Radio_Darom_logo.png"
   },
   {
-    "id": "jazzfm",
-    "name": "Jazz FM (UK)",
-    "streamUrl": "https://stream-uk1.radiomonitor.com/jazzfm.mp3",
-    "category": "world",
-    "genre": "ג'אז ובלוז",
-    "description": "The home of jazz, soul and blues broadcasting from London",
-    "logoColor": 4288423856,
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/Jazz_FM_2018_logo.png/240px-Jazz_FM_2018_logo.png"
-  },
-  {
   "id": "classicfmuk",
   "name": "Classic FM UK",
   "streamUrl": "https://media-ssl.musicradio.com/ClassicFM",
