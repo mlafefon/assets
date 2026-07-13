@@ -288,6 +288,57 @@
   "description": "103FM - רדיו ללא הפסקה. תוכניות אקטואליה, ראיונות, ספורט, בידור ושיחות עם מאזינים.",
   "logoColor": 4283191120,
   "logoUrl": "https://www.103fm.co.il/favicon.ico"
-}
+},
+  {
+    "id": "onlyhits",
+    "name": "Only Hits",
+    "streamUrl": "https://cdn.onlyhitsradio.net/onlyhits",
+    "category": "world",
+    "genre": "להיטים ופופ",
+    "description": "להיטי הפופ העדכניים מכל העולם.",
+    "logoColor": 4283191120,
+    "logoUrl": "https://cdn.onlyhitsradio.net/logo/onlyhits.png"
+  },
+  {
+    "id": "tophits",
+    "name": "להיטים ופופ",
+    "streamUrl": "https://cdn.onlyhitsradio.net/tophits",
+    "category": "world",
+    "genre": "Top 40",
+    "description": "להיטי Top 40 מכל העולם.",
+    "logoColor": 4283191120,
+    "logoUrl": "https://cdn.onlyhitsradio.net/logo/tophits.png"
+  },
+  {
+    "id": "onlyhitsgold",
+    "name": "Only Hits Gold",
+    "streamUrl": "https://cdn.onlyhitsradio.net/gold",
+    "category": "world",
+    "genre": "להיטים ופופ",
+    "description": "להיטי שנות ה-70, ה-80 והפופ הקלאסי.",
+    "logoColor": 4283191120,
+    "logoUrl": "https://cdn.onlyhitsradio.net/logo/gold.png"
+  },   
+  {
+    "id": "deltapoprock",
+    "name": "Delta Radio Pop Rock",
+    "streamUrl": "https://streams.deltaradio.de/delta-poprock/mp3-192/streams.deltaradio.de/",
+    "category": "world",
+    "genre": "להיטים ופופ",
+    "description": "להיטי פופ-רוק עדכניים וקלאסיים.",
+    "logoColor": 4283191120,
+    "logoUrl": "https://streams.deltaradio.de/m/rc/branding/9dfa995e-74b4-4c7e-ad90-0ff06e936f54/delta_rockpop_128x128.png"
+  },
+  {
+    "id": "90s90s00s",
+    "name": "90s90s 2000s",
+    "streamUrl": "https://streams.90s90s.de/90s00s/mp3-192/streams.90s90s.de/",
+    "category": "world",
+    "genre": "להיטים ופופ",
+    "description": "להיטי הפופ הגדולים של שנות ה-90 וה-2000.",
+    "logoColor": 4283191120,
+    "logoUrl": "https://streams.90s90s.de/m/rc/branding/287665da-29f4-4f91-8878-2a9c5301881f/90s90s_90s90s-dab_128x128.png"
+  }
+
 ]
 
