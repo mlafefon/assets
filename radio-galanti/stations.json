@@ -348,7 +348,16 @@
   "description": "השירים האייקוניים ביותר משנות ה־70, ה־80, ה־90 וה־2000.",
   "logoColor": 4283191120,
   "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/Glglz_logo.jpg"
-}
-
+},
+  {
+  "id": "kol-ramat-hasharon",
+  "name": "קול רמת השרון",
+  "streamUrl": "https://radio.streamgates.net/stream/1036",
+  "category": "israel",
+  "genre": “אקטואליה וחדשותי",
+  "description": "תחנת הרדיו הקהילתית-חינוכית של רמת השרון המשדרת מגוון תוכניות מוזיקה, תרבות ואקטואליה.",
+  "logoColor": 4283191120,
+  "logoUrl": "https://www.1036.co.il/wp-content/uploads/2024/07/cropped-1036-logo-192x192.png"}
+  }
 ]
 
