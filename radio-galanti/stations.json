@@ -338,7 +338,17 @@
     "description": "להיטי הפופ הגדולים של שנות ה-90 וה-2000.",
     "logoColor": 4283191120,
     "logoUrl": "https://streams.90s90s.de/m/rc/branding/287665da-29f4-4f91-8878-2a9c5301881f/90s90s_90s90s-dab_128x128.png"
-  }
+  },
+  {
+  "id": "galgalatz-decades",
+  "name": "גלגלצ - עשורים",
+  "streamUrl": "https://glzwizzlv.bynetcdn.com/glglz_alt_mp3?awCollectionId=misc&awEpisodeId=glglz_alt",
+  "category": "world",
+  "genre": "מוזיקה ישראלית",
+  "description": "השירים האייקוניים ביותר משנות ה־70, ה־80, ה־90 וה־2000.",
+  "logoColor": 4283191120,
+  "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/Glglz_logo.jpg"
+}
 
 ]
 
