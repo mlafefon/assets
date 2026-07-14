@@ -332,12 +332,22 @@
  {
    "id": "galgalatz-decades",
    "name": "גלגלצ - עשורים",
-   "streamUrl": "https://glzwizzlv.bynetcdn.com/glglz_alt_mp3?awCollectionId=misc&awEpisodeId=glglz_alt",
+   "streamUrl": "https://glzwizzlv.bynetcdn.com/glglz_alt_mp3",
    "category": "world",
-   "genre": "מוזיקה ישראלית",
+   "genre": "להיטים ופופ",
    "description": "השירים האייקוניים ביותר משנות ה־70, ה־80, ה־90 וה־2000.",
    "logoColor": 4283191120,
    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/Glglz_logo.jpg"
+ },
+ {
+   "id": "glglz_classicil",
+   "name": "גלגלצ גל עברי",
+   "streamUrl": "https://glzwizzlv.bynetcdn.com/glglz_classicil_mp3",
+   "category": "world",
+   "genre": "מוזיקה ישראלית",
+   "description": "השירים הקלאסיים של גלגלצ",
+   "logoColor": 4283191120,
+   "logoUrl": "https://upload.wikimedia.org/wikipedia/he/4/40/Galgalz.svg"
  },
  {
    "id": "kol-ramat-hasharon",
