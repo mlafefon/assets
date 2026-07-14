@@ -1,353 +1,382 @@
 [
-  {
-    "id": "galgalatz",
-    "name": "גלגלצ",
-    "streamUrl": "https://glzwizzlv.bynetcdn.com/glz_mp3",
-    "category": "israeli",
-    "genre": "מוזיקה ישראלית",
-    "description": "התחנה הצבאית הפופולרית בישראל - מוזיקה מעולה ודיווחי תנועה",
-    "logoColor": 4283191120,
-    "logoUrl": "https://radio.coolsite.co.il/images/playlists/4.png"
-  },
-  {
-    "id": "lautfm80s",
-    "name": "Laut.FM 80s",
-    "streamUrl": "https://80s.stream.laut.fm/80s",
-    "category": "world",
-    "genre": "שנות ה-80",
-    "description": "80s only - כל להיטי שנות ה-80 הטובים ביותר.",
-    "logoColor": 4283191120,
-    "logoUrl": "https://laut.fm/assets/icon-192x192.png"
-  },
-  {
-    "id": "radiolauth",
-    "name": "רדיו צחוק",
-    "streamUrl": "https://live.ecast.co.il/stream/69fm/lolfm?t=1783878109164",
-    "category": "israeli",
-    "genre": "מערכונים",
-    "description": "כל המערכונים",
-    "logoColor": 4283191120,
-    "logoUrl": "https://cdn.rlive.co.il/1RY8N1SWUKWM3HV3ZP7FLYEO2@tb.png"
-  },
-  {
-    "id": "eco99",
-    "name": "Eco 99 FM",
-    "streamUrl": "https://eco01.livecdn.biz/ecolive/99fm/icecast.audio",
-    "category": "israeli",
-    "genre": "להיטים ופופ",
-    "description": "מוזיקה מעולה מסביב לשעון, שמירה על הסביבה וסגנון חיים",
-    "logoColor": 4287316810,
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/he/0/06/Eco99fm_logo.png"
-  },
-  {
-    "id": "radius100",
-    "name": "רדיוס 100FM",
-    "streamUrl": "https://cdn.cybercdn.live/Radios_100FM/Audio/icecast.audio",
-    "category": "israeli",
-    "genre": "להיטים ופופ",
-    "description": "מוזיקת פופ, דאנס ולהיטים בינלאומיים מהמובילים בעולם",
-    "logoColor": 4293434979,
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/he/thumb/2/27/Radius100_Logo.png/240px-Radius100_Logo.png"
-  },
-  {
-    "id": "lev91",
-    "name": "לב המדינה 91FM",
-    "streamUrl": "https://cdn.cybercdn.live/Lev_Hamedina/Audio/icecast.audio",
-    "category": "israeli",
-    "genre": "מזרחית וישראלי",
-    "description": "מוזיקה ים-תיכונית, להיטים מזרחיים ישנים וחדשים, תוכניות בידור",
-    "logoColor": 4294940672,
-    "logoUrl": "https://www.fm1.co.il/images/logos/91fm.png"
-  },
-  {
-    "id": "kan88",
-    "name": "כאן 88",
-    "streamUrl": "https://29073.live.streamtheworld.com/KAN_88.mp3",
-    "category": "israeli",
-    "genre": "אלטרנטיבי",
-    "description": "תחנת המוזיקה האיכותית של תאגיד השידור - רוק, ג'אז, בלוז ואלטרנטיבי",
-    "logoColor": 4278228616,
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/he/thumb/4/45/Kan_88_Logo.svg/240px-Kan_88_Logo.svg.png"
-  },
-  {
-    "id": "kanbet",
-    "name": "כאן ב",
-    "streamUrl": "https://28563.live.streamtheworld.com/KAN_BET.mp3",
-    "category": "israeli",
-    "genre": "אקטואליה וחדשות",
-    "description": "רשת החדשות והאקטואליה המובילה של תאגיד השידור הישראלי",
-    "logoColor": 4279891666,
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/he/thumb/c/cb/Kan_Bet_Logo.svg/240px-Kan_Bet_Logo.svg.png"
-  },
-  {
-    "id": "kangimel",
-    "name": "כאן ג",
-    "streamUrl": "https://27873.live.streamtheworld.com/KAN_GIMMEL.mp3",
-    "category": "israeli",
-    "genre": "מוזיקה ישראלית",
-    "description": "הבית של המוזיקה הישראלית - הלהיטים, הקלאסיקות והאמנים המקומיים",
-    "logoColor": 4294924066,
-    "logoUrl": "https://static.cdnlogo.com/logos/k/28/kangimel.svg"
-  },
-  {
-    "id": "darom1015",
-    "name": "רדיו דרום 101.5",
-    "streamUrl": "https://cdn.cybercdn.live/Darom_97FM/Live/icecast.audio",
-    "category": "israeli",
-    "genre": "אקטואליה וחדשות",
-    "description": "תחנת הרדיו המובילה באזור הדרום - מוזיקה, חדשות מקומיות ותוכניות בידור",
-    "logoColor": 4294951175,
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/he/thumb/4/4b/Radio_Darom_logo.png/240px-Radio_Darom_logo.png"
-  },
-  {
-  "id": "classicfmuk",
-  "name": "Classic FM UK",
-  "streamUrl": "https://media-ssl.musicradio.com/ClassicFM",
-  "category": "classical",
-  "genre": "קלאסי",
-  "description": "תחנת הקלאסיקה המסחרית המובילה בבריטניה - יצירות מוכרות, פסנתר, תזמורת ומוזיקה קלאסית נעימה.",
-  "logoColor": 4283191120,
-  "logoUrl": "https://www.classicfm.com/favicon.ico"
-},
-  {
-    "id": "kexp",
-    "name": "KEXP Seattle",
-    "streamUrl": "https://kexp-mp3-128.streamguys1.com/kexp128.mp3",
-    "category": "world",
-    "genre": "אלטרנטיבי",
-    "description": "Where the music matters - iconic independent alternative radio from Seattle",
-    "logoColor": 4278228616,
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/KEXP_logo_black_and_red.svg/240px-KEXP_logo_black_and_red.svg.png"
-  },
-  {
-    "id": "soma80s",
-    "name": "Underground 80s",
-    "streamUrl": "https://ice1.somafm.com/u80s-128-mp3",
-    "category": "world",
-    "genre": "שנות ה-80",
-    "description": "סינת'פופ מבריטניה וניו ווייב. הפסקול של שנות ה-80 מבית SomaFM.",
-    "logoColor": 4293434979,
-    "logoUrl": "https://somafm.com/img/u80s-120.png"
-  },
-  {
-    "id": "awesome80s",
-    "name": "להיטי שנות ה-80",
-    "streamUrl": "https://listen.181fm.com/181-awesome80s_128k.mp3",
-    "category": "world",
-    "genre": "שנות ה-80",
-    "description": "תחנת Awesome 80s המנגנת את מיטב להיטי שנות ה-80 מכל העולם.",
-    "logoColor": 4280358643,
-    "logoUrl": "https://www.181.fm/images/181fm_logo_2022.png"
-  },
-  {
-    "id": "lite80s",
-    "name": "181.FM Lite 80s",
-    "streamUrl": "https://listen.181fm.com/181-lite80s_128k.mp3",
-    "category": "world",
-    "genre": "שנות ה-80",
-    "description": "מוזיקת פופ קלה ובלדות רכות משנות ה-80.",
-    "logoColor": 4288423856,
-    "logoUrl": "https://www.181.fm/images/181fm_logo_2022.png"
-  },
-  {
-    "id": "hairband80s",
-    "name": "181.FM 80s Hairband",
-    "streamUrl": "https://listen.181fm.com/181-hairband_128k.mp3",
-    "category": "world",
-    "genre": "שנות ה-80",
-    "description": "גלאם מטאל, הארד רוק ולהקות שיער משנות ה-80.",
-    "logoColor": 4294198070,
-    "logoUrl": "https://www.181.fm/images/181fm_logo_2022.png"
-  },
-  {
-    "id": "rnb80s",
-    "name": "181.FM 80s R&B",
-    "streamUrl": "https://listen.181fm.com/181-80srnb_128k.mp3",
-    "category": "world",
-    "genre": "שנות ה-80",
-    "description": "שירי רית'ם אנד בלוז אהובים ומוזיקת נשמה משנות ה-80.",
-    "logoColor": 4284988087,
-    "logoUrl": "https://www.181.fm/images/181fm_logo_2022.png"
-  },
-  {
-    "id": "country80s",
-    "name": "181.FM 80s Country",
-    "streamUrl": "https://listen.181fm.com/181-80scountry_128k.mp3",
-    "category": "world",
-    "genre": "שנות ה-80",
-    "description": "מיטב הלהיטים של מוזיקת הקאנטרי משנות ה-80.",
-    "logoColor": 4294940672,
-    "logoUrl": "https://www.181.fm/images/181fm_logo_2022.png"
-  },
-  {
-    "id": "lite90s",
-    "name": "181.FM Lite 90s",
-    "streamUrl": "https://listen.181fm.com/181-lite90s_128k.mp3",
-    "category": "90s",
-    "genre": "שנות ה-90",
-    "description": "מוזיקת פופ קלה ובלדות רכות משנות ה-90.",
-    "logoColor": 4288423856,
-    "logoUrl": "https://www.181.fm/images/181fm_logo_2022.png"
-  },
-  {
-    "id": "star90s",
-    "name": "181.FM Star 90s",
-    "streamUrl": "https://listen.181fm.com/181-star90s_128k.mp3",
-    "category": "90s",
-    "genre": "שנות ה-90",
-    "description": "מיטב הלהיטים והפופ הגדולים של שנות ה-90.",
-    "logoColor": 4293434979,
-    "logoUrl": "https://www.181.fm/images/181fm_logo_2022.png"
-  },
-  {
-    "id": "alt90s",
-    "name": "181.FM 90s Alternative",
-    "streamUrl": "https://listen.181fm.com/181-90salt_128k.mp3",
-    "category": "90s",
-    "genre": "שנות ה-90",
-    "description": "גראנג', רוק אלטרנטיבי ואינדי משנות ה-90.",
-    "logoColor": 4278228616,
-    "logoUrl": "https://www.181.fm/images/181fm_logo_2022.png"
-  },
-  {
-    "id": "dance90s",
-    "name": "181.FM 90s Dance",
-    "streamUrl": "https://listen.181fm.com/181-90sdance_128k.mp3",
-    "category": "90s",
-    "genre": "שנות ה-90",
-    "description": "יורודאנס, דאנס ומוזיקה אלקטרונית קצבית משנות ה-90.",
-    "logoColor": 4280358643,
-    "logoUrl": "https://www.181.fm/images/181fm_logo_2022.png"
-  },
-  {
-    "id": "country90s",
-    "name": "181.FM 90s Country",
-    "streamUrl": "https://listen.181fm.com/181-90scountry_128k.mp3",
-    "category": "90s",
-    "genre": "שנות ה-90",
-    "description": "מיטב הלהיטים של מוזיקת הקאנטרי משנות ה-90.",
-    "logoColor": 4294940672,
-    "logoUrl": "https://www.181.fm/images/181fm_logo_2022.png"
-  },
-  {
-    "id": "radio90s90s",
-    "name": "90s90s Live",
-    "streamUrl": "https://streams.90s90s.de/90s00s/mp3-192/streams.90s90s.de/",
-    "category": "90s",
-    "genre": "שנות ה-90",
-    "description": "תחנת הרדיו המובילה מגרמניה המוקדשת כולה ללהיטי שנות ה-90.",
-    "logoColor": 4294924066,
-    "logoUrl": "https://www.90s90s.de/sites/default/files/styles/logo/public/90s90s_logo_0.png"
-  },
-  {
-    "id": "classicfmcalm",
-    "name": "Classic FM Calm",
-    "streamUrl": "https://media-ssl.musicradio.com/ClassicFMCalm",
-    "category": "classical",
-    "genre": "קלאסי",
-    "description": "מוזיקה קלאסית רגועה ונעימה - פסנתר, תזמורת וקטעים מרגיעים.",
-    "logoColor": 4283191120,
-    "logoUrl": "https://www.classicfm.com/favicon.ico"
-  }, 
-  {
-    "id": "laut-fm-classic",
-    "name": "Laut.FM Klassik",
-    "streamUrl": "https://klassik.stream.laut.fm/klassik",
-    "category": "classical",
-    "genre": "קלאסי",
-    "description": "תחנת קלאסיקה גרמנית עם מבחר יצירות קלאסיות.",
-    "logoColor": 4283191120,
-    "logoUrl": "https://laut.fm/assets/icon-192x192.png"
-  },
-  {
-    "id": "radio-classique",
-    "name": "Radio Classique",
-    "streamUrl": "https://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3",
-    "category": "classical",
-    "genre": "קלאסי",
-    "description": "קלאסיקה אירופאית, פסנתר, יצירות מוכרות ומוזיקה נעימה.",
-    "logoColor": 4283191120,
-    "logoUrl": "https://www.radioclassique.fr/favicon.ico"
-  },
-  {
-  "id": "103fm",
-  "name": "103FM",
-  "streamUrl": "https://cdn.cybercdn.live/103FM/Live/icecast.audio",
-  "category": "israeli",
-  "genre": "אקטואליה וחדשות",
-  "description": "103FM - רדיו ללא הפסקה. תוכניות אקטואליה, ראיונות, ספורט, בידור ושיחות עם מאזינים.",
-  "logoColor": 4283191120,
-  "logoUrl": "https://www.103fm.co.il/favicon.ico"
-},
-  {
-    "id": "onlyhits",
-    "name": "Only Hits",
-    "streamUrl": "https://cdn.onlyhitsradio.net/onlyhits",
-    "category": "world",
-    "genre": "להיטים ופופ",
-    "description": "להיטי הפופ העדכניים מכל העולם.",
-    "logoColor": 4283191120,
-    "logoUrl": "https://cdn.onlyhitsradio.net/logo/onlyhits.png"
-  },
-  {
-    "id": "tophits",
-    "name": "להיטים ופופ",
-    "streamUrl": "https://cdn.onlyhitsradio.net/tophits",
-    "category": "world",
-    "genre": "Top 40",
-    "description": "להיטי Top 40 מכל העולם.",
-    "logoColor": 4283191120,
-    "logoUrl": "https://cdn.onlyhitsradio.net/logo/tophits.png"
-  },
-  {
-    "id": "onlyhitsgold",
-    "name": "Only Hits Gold",
-    "streamUrl": "https://cdn.onlyhitsradio.net/gold",
-    "category": "world",
-    "genre": "להיטים ופופ",
-    "description": "להיטי שנות ה-70, ה-80 והפופ הקלאסי.",
-    "logoColor": 4283191120,
-    "logoUrl": "https://cdn.onlyhitsradio.net/logo/gold.png"
-  },   
-  {
-    "id": "deltapoprock",
-    "name": "Delta Radio Pop Rock",
-    "streamUrl": "https://streams.deltaradio.de/delta-poprock/mp3-192/streams.deltaradio.de/",
-    "category": "world",
-    "genre": "להיטים ופופ",
-    "description": "להיטי פופ-רוק עדכניים וקלאסיים.",
-    "logoColor": 4283191120,
-    "logoUrl": "https://streams.deltaradio.de/m/rc/branding/9dfa995e-74b4-4c7e-ad90-0ff06e936f54/delta_rockpop_128x128.png"
-  },
-  {
-    "id": "90s90s00s",
-    "name": "90s90s 2000s",
-    "streamUrl": "https://streams.90s90s.de/90s00s/mp3-192/streams.90s90s.de/",
-    "category": "world",
-    "genre": "להיטים ופופ",
-    "description": "להיטי הפופ הגדולים של שנות ה-90 וה-2000.",
-    "logoColor": 4283191120,
-    "logoUrl": "https://streams.90s90s.de/m/rc/branding/287665da-29f4-4f91-8878-2a9c5301881f/90s90s_90s90s-dab_128x128.png"
-  },
-  {
-  "id": "galgalatz-decades",
-  "name": "גלגלצ - עשורים",
-  "streamUrl": "https://glzwizzlv.bynetcdn.com/glglz_alt_mp3?awCollectionId=misc&awEpisodeId=glglz_alt",
-  "category": "world",
-  "genre": "מוזיקה ישראלית",
-  "description": "השירים האייקוניים ביותר משנות ה־70, ה־80, ה־90 וה־2000.",
-  "logoColor": 4283191120,
-  "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/Glglz_logo.jpg"
-},
-  {
-  "id": "kol-ramat-hasharon",
-  "name": "קול רמת השרון",
-  "streamUrl": "https://radio.streamgates.net/stream/1036",
-  "category": "israeli",
-  "genre": "אקטואליה וחדשות",
-  "description": "תחנת הרדיו הקהילתית-חינוכית של רמת השרון המשדרת מגוון תוכניות מוזיקה, תרבות ואקטואליה.",
-  "logoColor": 4283191120,
-  "logoUrl": "https://www.1036.co.il/wp-content/uploads/2024/07/cropped-1036-logo-192x192.png"
-  }
+ {
+   "id": "galgalatz",
+   "name": "גלגלצ",
+   "streamUrl": "https://glzwizzlv.bynetcdn.com/glz_mp3",
+   "category": "israeli",
+   "genre": "מוזיקה ישראלית",
+   "description": "התחנה הצבאית הפופולרית בישראל - מוזיקה מעולה ודיווחי תנועה",
+   "logoColor": 4283191120,
+   "logoUrl": "https://radio.coolsite.co.il/images/playlists/4.png"
+ },
+ {
+   "id": "lautfm80s",
+   "name": "Laut.FM 80s",
+   "streamUrl": "https://80s.stream.laut.fm/80s",
+   "category": "world",
+   "genre": "שנות ה-80",
+   "description": "80s only - כל להיטי שנות ה-80 הטובים ביותר.",
+   "logoColor": 4283191120,
+   "logoUrl": "https://laut.fm/assets/icon-192x192.png"
+ },
+ {
+   "id": "radiolauth",
+   "name": "רדיו צחוק",
+   "streamUrl": "https://live.ecast.co.il/stream/69fm/lolfm?t=1783878109164",
+   "category": "israeli",
+   "genre": "מערכונים",
+   "description": "כל המערכונים",
+   "logoColor": 4283191120,
+   "logoUrl": "https://cdn.rlive.co.il/1RY8N1SWUKWM3HV3ZP7FLYEO2@tb.png"
+ },
+ {
+   "id": "eco99",
+   "name": "Eco 99 FM",
+   "streamUrl": "https://eco01.livecdn.biz/ecolive/99fm/icecast.audio",
+   "category": "israeli",
+   "genre": "להיטים ופופ",
+   "description": "מוזיקה מעולה מסביב לשעון, שמירה על הסביבה וסגנון חיים",
+   "logoColor": 4287316810,
+   "logoUrl": "https://upload.wikimedia.org/wikipedia/he/0/06/Eco99fm_logo.png"
+ },
+ {
+   "id": "radius100",
+   "name": "רדיוס 100FM",
+   "streamUrl": "https://cdn.cybercdn.live/Radios_100FM/Audio/icecast.audio",
+   "category": "israeli",
+   "genre": "להיטים ופופ",
+   "description": "מוזיקת פופ, דאנס ולהיטים בינלאומיים מהמובילים בעולם",
+   "logoColor": 4293434979,
+   "logoUrl": "https://upload.wikimedia.org/wikipedia/he/thumb/2/27/Radius100_Logo.png/240px-Radius100_Logo.png"
+ },
+ {
+   "id": "lev91",
+   "name": "לב המדינה 91FM",
+   "streamUrl": "https://cdn.cybercdn.live/Lev_Hamedina/Audio/icecast.audio",
+   "category": "israeli",
+   "genre": "מזרחית וישראלי",
+   "description": "מוזיקה ים-תיכונית, להיטים מזרחיים ישנים וחדשים, תוכניות בידור",
+   "logoColor": 4294940672,
+   "logoUrl": "https://www.fm1.co.il/images/logos/91fm.png"
+ },
+ {
+   "id": "kan88",
+   "name": "כאן 88",
+   "streamUrl": "https://29073.live.streamtheworld.com/KAN_88.mp3",
+   "category": "israeli",
+   "genre": "אלטרנטיבי",
+   "description": "תחנת המוזיקה האיכותית של תאגיד השידור - רוק, ג'אז, בלוז ואלטרנטיבי",
+   "logoColor": 4278228616,
+   "logoUrl": "https://upload.wikimedia.org/wikipedia/he/thumb/4/45/Kan_88_Logo.svg/240px-Kan_88_Logo.svg.png"
+ },
+ {
+   "id": "kanbet",
+   "name": "כאן ב",
+   "streamUrl": "https://28563.live.streamtheworld.com/KAN_BET.mp3",
+   "category": "israeli",
+   "genre": "אקטואליה וחדשות",
+   "description": "רשת החדשות והאקטואליה המובילה של תאגיד השידור הישראלי",
+   "logoColor": 4279891666,
+   "logoUrl": "https://upload.wikimedia.org/wikipedia/he/thumb/c/cb/Kan_Bet_Logo.svg/240px-Kan_Bet_Logo.svg.png"
+ },
+ {
+   "id": "kangimel",
+   "name": "כאן ג",
+   "streamUrl": "https://27873.live.streamtheworld.com/KAN_GIMMEL.mp3",
+   "category": "israeli",
+   "genre": "מוזיקה ישראלית",
+   "description": "הבית של המוזיקה הישראלית - הלהיטים, הקלאסיקות והאמנים המקומיים",
+   "logoColor": 4294924066,
+   "logoUrl": "https://static.cdnlogo.com/logos/k/28/kangimel.svg"
+ },
+ {
+   "id": "darom1015",
+   "name": "רדיו דרום 101.5",
+   "streamUrl": "https://cdn.cybercdn.live/Darom_97FM/Live/icecast.audio",
+   "category": "israeli",
+   "genre": "אקטואליה וחדשות",
+   "description": "תחנת הרדיו המובילה באזור הדרום - מוזיקה, חדשות מקומיות ותוכניות בידור",
+   "logoColor": 4294951175,
+   "logoUrl": "https://upload.wikimedia.org/wikipedia/he/thumb/4/4b/Radio_Darom_logo.png/240px-Radio_Darom_logo.png"
+ },
+ {
+   "id": "classicfmuk",
+   "name": "Classic FM UK",
+   "streamUrl": "https://media-ssl.musicradio.com/ClassicFM",
+   "category": "classical",
+   "genre": "קלאסי",
+   "description": "תחנת הקלאסיקה המסחרית המובילה בבריטניה - יצירות מוכרות, פסנתר, תזמורת ומוזיקה קלאסית נעימה.",
+   "logoColor": 4283191120,
+   "logoUrl": "https://www.classicfm.com/favicon.ico"
+ },
+ {
+   "id": "kexp",
+   "name": "KEXP Seattle",
+   "streamUrl": "https://kexp-mp3-128.streamguys1.com/kexp128.mp3",
+   "category": "world",
+   "genre": "אלטרנטיבי",
+   "description": "Where the music matters - iconic independent alternative radio from Seattle",
+   "logoColor": 4278228616,
+   "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/KEXP_logo_black_and_red.svg/240px-KEXP_logo_black_and_red.svg.png"
+ },
+ {
+   "id": "soma80s",
+   "name": "Underground 80s",
+   "streamUrl": "https://ice1.somafm.com/u80s-128-mp3",
+   "category": "world",
+   "genre": "שנות ה-80",
+   "description": "סינת'פופ מבריטניה וניו ווייב. הפסקול של שנות ה-80 מבית SomaFM.",
+   "logoColor": 4293434979,
+   "logoUrl": "https://somafm.com/img/u80s-120.png"
+ },
+ {
+   "id": "awesome80s",
+   "name": "להיטי שנות ה-80",
+   "streamUrl": "https://listen.181fm.com/181-awesome80s_128k.mp3",
+   "category": "world",
+   "genre": "שנות ה-80",
+   "description": "תחנת Awesome 80s המנגנת את מיטב להיטי שנות ה-80 מכל העולם.",
+   "logoColor": 4280358643,
+   "logoUrl": "https://www.181.fm/images/181fm_logo_2022.png"
+ },
+ {
+   "id": "lite80s",
+   "name": "181.FM Lite 80s",
+   "streamUrl": "https://listen.181fm.com/181-lite80s_128k.mp3",
+   "category": "world",
+   "genre": "שנות ה-80",
+   "description": "מוזיקת פופ קלה ובלדות רכות משנות ה-80.",
+   "logoColor": 4288423856,
+   "logoUrl": "https://www.181.fm/images/181fm_logo_2022.png"
+ },
+ {
+   "id": "hairband80s",
+   "name": "181.FM 80s Hairband",
+   "streamUrl": "https://listen.181fm.com/181-hairband_128k.mp3",
+   "category": "world",
+   "genre": "שנות ה-80",
+   "description": "גלאם מטאל, הארד רוק ולהקות שיער משנות ה-80.",
+   "logoColor": 4294198070,
+   "logoUrl": "https://www.181.fm/images/181fm_logo_2022.png"
+ },
+ {
+   "id": "rnb80s",
+   "name": "181.FM 80s R&B",
+   "streamUrl": "https://listen.181fm.com/181-80srnb_128k.mp3",
+   "category": "world",
+   "genre": "שנות ה-80",
+   "description": "שירי רית'ם אנד בלוז אהובים ומוזיקת נשמה משנות ה-80.",
+   "logoColor": 4284988087,
+   "logoUrl": "https://www.181.fm/images/181fm_logo_2022.png"
+ },
+ {
+   "id": "country80s",
+   "name": "181.FM 80s Country",
+   "streamUrl": "https://listen.181fm.com/181-80scountry_128k.mp3",
+   "category": "world",
+   "genre": "שנות ה-80",
+   "description": "מיטב הלהיטים של מוזיקת הקאנטרי משנות ה-80.",
+   "logoColor": 4294940672,
+   "logoUrl": "https://www.181.fm/images/181fm_logo_2022.png"
+ },
+ {
+   "id": "lite90s",
+   "name": "181.FM Lite 90s",
+   "streamUrl": "https://listen.181fm.com/181-lite90s_128k.mp3",
+   "category": "90s",
+   "genre": "שנות ה-90",
+   "description": "מוזיקת פופ קלה ובלדות רכות משנות ה-90.",
+   "logoColor": 4288423856,
+   "logoUrl": "https://www.181.fm/images/181fm_logo_2022.png"
+ },
+ {
+   "id": "star90s",
+   "name": "181.FM Star 90s",
+   "streamUrl": "https://listen.181fm.com/181-star90s_128k.mp3",
+   "category": "90s",
+   "genre": "שנות ה-90",
+   "description": "מיטב הלהיטים והפופ הגדולים של שנות ה-90.",
+   "logoColor": 4293434979,
+   "logoUrl": "https://www.181.fm/images/181fm_logo_2022.png"
+ },
+ {
+   "id": "alt90s",
+   "name": "181.FM 90s Alternative",
+   "streamUrl": "https://listen.181fm.com/181-90salt_128k.mp3",
+   "category": "90s",
+   "genre": "שנות ה-90",
+   "description": "גראנג', רוק אלטרנטיבי ואינדי משנות ה-90.",
+   "logoColor": 4278228616,
+   "logoUrl": "https://www.181.fm/images/181fm_logo_2022.png"
+ },
+ {
+   "id": "dance90s",
+   "name": "181.FM 90s Dance",
+   "streamUrl": "https://listen.181fm.com/181-90sdance_128k.mp3",
+   "category": "90s",
+   "genre": "שנות ה-90",
+   "description": "יורודאנס, דאנס ומוזיקה אלקטרונית קצבית משנות ה-90.",
+   "logoColor": 4280358643,
+   "logoUrl": "https://www.181.fm/images/181fm_logo_2022.png"
+ },
+ {
+   "id": "country90s",
+   "name": "181.FM 90s Country",
+   "streamUrl": "https://listen.181fm.com/181-90scountry_128k.mp3",
+   "category": "90s",
+   "genre": "שנות ה-90",
+   "description": "מיטב הלהיטים של מוזיקת הקאנטרי משנות ה-90.",
+   "logoColor": 4294940672,
+   "logoUrl": "https://www.181.fm/images/181fm_logo_2022.png"
+ },
+ {
+   "id": "radio90s90s",
+   "name": "90s90s Live",
+   "streamUrl": "https://streams.90s90s.de/90s00s/mp3-192/streams.90s90s.de/",
+   "category": "90s",
+   "genre": "שנות ה-90",
+   "description": "תחנת הרדיו המובילה מגרמניה המוקדשת כולה ללהיטי שנות ה-90.",
+   "logoColor": 4294924066,
+   "logoUrl": "https://www.90s90s.de/sites/default/files/styles/logo/public/90s90s_logo_0.png"
+ },
+ {
+   "id": "classicfmcalm",
+   "name": "Classic FM Calm",
+   "streamUrl": "https://media-ssl.musicradio.com/ClassicFMCalm",
+   "category": "classical",
+   "genre": "קלאסי",
+   "description": "מוזיקה קלאסית רגועה ונעימה - פסנתר, תזמורת וקטעים מרגיעים.",
+   "logoColor": 4283191120,
+   "logoUrl": "https://www.classicfm.com/favicon.ico"
+ },
+ {
+   "id": "laut-fm-classic",
+   "name": "Laut.FM Klassik",
+   "streamUrl": "https://klassik.stream.laut.fm/klassik",
+   "category": "classical",
+   "genre": "קלאסי",
+   "description": "תחנת קלאסיקה גרמנית עם מבחר יצירות קלאסיות.",
+   "logoColor": 4283191120,
+   "logoUrl": "https://laut.fm/assets/icon-192x192.png"
+ },
+ {
+   "id": "radio-classique",
+   "name": "Radio Classique",
+   "streamUrl": "https://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3",
+   "category": "classical",
+   "genre": "קלאסי",
+   "description": "קלאסיקה אירופאית, פסנתר, יצירות מוכרות ומוזיקה נעימה.",
+   "logoColor": 4283191120,
+   "logoUrl": "https://www.radioclassique.fr/favicon.ico"
+ },
+ {
+   "id": "103fm",
+   "name": "103FM",
+   "streamUrl": "https://cdn.cybercdn.live/103FM/Live/icecast.audio",
+   "category": "israeli",
+   "genre": "אקטואליה וחדשות",
+   "description": "103FM - רדיו ללא הפסקה. תוכניות אקטואליה, ראיונות, ספורט, בידור ושיחות עם מאזינים.",
+   "logoColor": 4283191120,
+   "logoUrl": "https://www.103fm.co.il/favicon.ico"
+ },
+ {
+   "id": "onlyhits",
+   "name": "Only Hits",
+   "streamUrl": "https://cdn.onlyhitsradio.net/onlyhits",
+   "category": "world",
+   "genre": "להיטים ופופ",
+   "description": "להיטי הפופ העדכניים מכל העולם.",
+   "logoColor": 4283191120,
+   "logoUrl": "https://cdn.onlyhitsradio.net/logo/onlyhits.png"
+ },
+ {
+   "id": "tophits",
+   "name": "להיטים ופופ",
+   "streamUrl": "https://cdn.onlyhitsradio.net/tophits",
+   "category": "world",
+   "genre": "Top 40",
+   "description": "להיטי Top 40 מכל העולם.",
+   "logoColor": 4283191120,
+   "logoUrl": "https://cdn.onlyhitsradio.net/logo/tophits.png"
+ },
+ {
+   "id": "onlyhitsgold",
+   "name": "Only Hits Gold",
+   "streamUrl": "https://cdn.onlyhitsradio.net/gold",
+   "category": "world",
+   "genre": "להיטים ופופ",
+   "description": "להיטי שנות ה-70, ה-80 והפופ הקלאסי.",
+   "logoColor": 4283191120,
+   "logoUrl": "https://cdn.onlyhitsradio.net/logo/gold.png"
+ },
+ {
+   "id": "deltapoprock",
+   "name": "Delta Radio Pop Rock",
+   "streamUrl": "https://streams.deltaradio.de/delta-poprock/mp3-192/streams.deltaradio.de/",
+   "category": "world",
+   "genre": "להיטים ופופ",
+   "description": "להיטי פופ-רוק עדכניים וקלאסיים.",
+   "logoColor": 4283191120,
+   "logoUrl": "https://streams.deltaradio.de/m/rc/branding/9dfa995e-74b4-4c7e-ad90-0ff06e936f54/delta_rockpop_128x128.png"
+ },
+ {
+   "id": "90s90s00s",
+   "name": "90s90s 2000s",
+   "streamUrl": "https://streams.90s90s.de/90s00s/mp3-192/streams.90s90s.de/",
+   "category": "world",
+   "genre": "להיטים ופופ",
+   "description": "להיטי הפופ הגדולים של שנות ה-90 וה-2000.",
+   "logoColor": 4283191120,
+   "logoUrl": "https://streams.90s90s.de/m/rc/branding/287665da-29f4-4f91-8878-2a9c5301881f/90s90s_90s90s-dab_128x128.png"
+ },
+ {
+   "id": "galgalatz-decades",
+   "name": "גלגלצ - עשורים",
+   "streamUrl": "https://glzwizzlv.bynetcdn.com/glglz_alt_mp3?awCollectionId=misc&awEpisodeId=glglz_alt",
+   "category": "world",
+   "genre": "מוזיקה ישראלית",
+   "description": "השירים האייקוניים ביותר משנות ה־70, ה־80, ה־90 וה־2000.",
+   "logoColor": 4283191120,
+   "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/Glglz_logo.jpg"
+ },
+ {
+   "id": "kol-ramat-hasharon",
+   "name": "קול רמת השרון",
+   "streamUrl": "https://radio.streamgates.net/stream/1036",
+   "category": "israeli",
+   "genre": "אקטואליה וחדשות",
+   "description": "תחנת הרדיו הקהילתית-חינוכית של רמת השרון המשדרת מגוון תוכניות מוזיקה, תרבות ואקטואליה.",
+   "logoColor": 4283191120,
+   "logoUrl": "https://www.1036.co.il/wp-content/uploads/2024/07/cropped-1036-logo-192x192.png"
+ },
+ {
+   "id": "ClassicHits181",
+   "name": "Classic Hits 181",
+   "streamUrl": "https://listen.181fm.com/181-greatoldies_128k.mp3",
+   "category": "world",
+   "genre": "Oldies Stations",
+   "description": "תחנת רדיו שירים ישנים",
+   "logoColor": 4294940672,
+   "logoUrl": ""
+ },
+ {
+   "id": "beatles",
+   "name": "beatles",
+   "streamUrl": "https://listen.181fm.com/181-beatles_128k.mp3",
+   "category": "world",
+   "genre": "Oldies Stations",
+   "description": "תחנת רדיו שירים ישנים של הביטלס",
+   "logoColor": 4294940672,
+   "logoUrl": ""
+ },
+ {
+   "id": "super70s",
+   "name": "super 70s",
+   "streamUrl": "https://listen.181fm.com/181-70s_128k.mp3",
+   "category": "world",
+   "genre": "Oldies Stations",
+   "description": "שירים משנות ה 70",
+   "logoColor": 4294940672,
+   "logoUrl": ""
+ }
 ]
-
