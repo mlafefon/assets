@@ -33,7 +33,7 @@
     "description": "כל המערכונים"
   },
   {
-    "stationuuid": "eco99",
+    "stationuuid": "185f7bed-aab2-4c61-9aa9-b0e930c7d53b",
     "name": "Eco 99 FM",
     "url": "https://eco01.livecdn.biz/ecolive/99fm/icecast.audio",
     "favicon": "https://upload.wikimedia.org/wikipedia/he/thumb/0/0a/Eco_99_fm.svg/500px-Eco_99_fm.svg.png",
@@ -427,5 +427,16 @@
     "country": "United States",
     "language": "english",
     "description": "שירים משנות ה 70"
-  }
+  },
+  {
+  "stationuuid": "8f00a42a-c4e3-4138-8f21-551896a29065",
+  "name": "- 0 N - New Wave on Radio",
+  "url": "https:\/\/0n-newwave.radionetz.de\/0n-newwave.mp3",
+  "favicon": "https:\/\/www.0nradio.com\/logos\/0n-newwave_600x600.jpg",
+  "tags": "80s,alternative,new wave,oldies",
+  "countrycode": "DE",
+  "country": "Germany",
+  "language": "german",
+  "description": "אזור: Bayern. פורמט: MP3 128kbps"
+}
 ]
