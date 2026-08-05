@@ -22,6 +22,17 @@
     "description": "80s only - כל להיטי שנות ה-80 הטובים ביותר."
   },
   {
+  "stationuuid": "964b33df-0601-11e8-ae97-52543be04c81",
+  "name": "Laut.FM SynthPop",
+  "url": "http://stream.laut.fm/synthpop",
+  "favicon": "https://laut.fm/assets/icon-192x192.png",
+  "tags": "electropop,,new wave,",
+  "countrycode": "DE",
+  "country": "Germany",
+  "language": "german",
+  "description": "Laut.FM SynthPop | סגנונות: ebm,electropop,futurepop,new wave,synthpop,synthwave | מדינה: Germany | פורמט: MP3 128kbps | אתר: http://laut.fm/synthpop"
+},
+  {
     "stationuuid": "radiolauth",
     "name": "רדיו צחוק",
     "url": "https://live.ecast.co.il/stream/69fm/lolfm?t=1783878109164",
